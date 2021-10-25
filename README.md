@@ -1,6 +1,6 @@
 # About Abhishek Ramanathapura Satyanarayana
 
-## About me
+## Areas of Interests
 * Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Robot Perception, Computer Vision.
 
 ## Profile Details
