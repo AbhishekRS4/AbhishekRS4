@@ -1,5 +1,8 @@
 # About me
 
+## Personal
+🇮🇳
+
 ## Areas of Interests
 * Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Robot Perception, Computer Vision.
 
