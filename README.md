@@ -13,6 +13,6 @@
 ## Tech and Language Skills
 * Languages - English, Dutch (A1), Kannada (native), Hindi
 * Programming Languages - Python, C++, C, Java, Matlab
-* Python packages - Numpy, pandas, scipy, scikit, matplotlib, seaborn, pytorch, tensorflow, opencv, streamlit, fastapi, flask etc...
+* Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version Control (CI / CD) - Git, GitHub, GitLab
 * Miscellaneous Tech: MLFlow, Docker, Kubernetes, Microsoft Azure, AWS, SQLite, MySQL
