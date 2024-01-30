@@ -10,8 +10,7 @@
 * Github - [Github](https://abhishekrs4.github.io/)
 * Linkedin - [Linkedin](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
-## Tech and Language Skills
-* Languages - English, Dutch (A1), Kannada (native), Hindi
+## Tech and Programming Language Skills
 * Programming Languages - Python, C++, C, Java, Matlab
 * Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version Control (CI / CD) - Git, GitHub, GitLab
