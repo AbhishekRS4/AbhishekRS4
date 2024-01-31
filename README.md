@@ -10,6 +10,10 @@
 * Github - [Github](https://abhishekrs4.github.io/)
 * Linkedin - [Linkedin](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
+## Repositories with application deployment
+* [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation)
+* [ML_water_potability](https://github.com/AbhishekRS4/ML_water_potability)
+
 ## Tech and Programming Language Skills
 * Programming Languages - Python, C++, C, Java, Matlab
 * Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
