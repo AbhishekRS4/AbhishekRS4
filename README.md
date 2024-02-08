@@ -11,9 +11,9 @@
 * HuggingFace - [HuggingFace](https://huggingface.co/abhishekrs4)
 * LinkedIn - [LinkedIn](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
-## Repositories with application deployment
-* [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation)
-* [ML_water_potability](https://github.com/AbhishekRS4/ML_water_potability) FastAPI application has also been deployed to [HuggingFaceSpaces](https://huggingface.co/spaces/abhishekrs4/ML_water_potability)
+## Projects with application deployments
+* [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation) Streamlit application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Oil_Spill_Segmentation)
+* [ML_water_potability](https://github.com/AbhishekRS4/ML_water_potability) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/ML_water_potability)
 
 ## Tech and Programming Language Skills
 * Programming Languages - Python, C++, C, Java, Matlab
