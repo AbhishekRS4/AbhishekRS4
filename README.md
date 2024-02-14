@@ -10,7 +10,7 @@ to any one of the following --- technology, social, life, personality.
 * 📃 Webpage, it is always good to have one - [Webpage](https://abhishekrs4.github.io/)
 * 📜 Resume / CV - [CV](https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf)
 * 🤗 HuggingFace - [HuggingFace](https://huggingface.co/abhishekrs4)
-* ![image](https://github.com/AbhishekRS4/AbhishekRS4/assets/11407709/3bdc967d-2867-47f1-b6d0-a913ca2b1c8b) LinkedIn - [LinkedIn](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
+* ![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=blue)] LinkedIn - [LinkedIn](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
 ## Projects with application deployments
 * [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation) Streamlit application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Oil_Spill_Segmentation)
