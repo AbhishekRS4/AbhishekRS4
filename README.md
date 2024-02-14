@@ -1,15 +1,16 @@
 # About me
 🇮🇳🇳🇱
-
-## Areas of Interests
-* Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Robot Perception, Computer Vision.
+* 👨🏽‍🎓 I am a graduate Artificial Intelligence (AI) Engineer from the University of Groningen. I am a
+motivated, talented, hardworking, and fast-learning professional. I believe that **change is the only constant**. 
+In this bold new era of the AI world, I'm always open to upgrading my real human intelligence with new skills be it related
+to any one of the following --- technology, social, life, personality.
 
 ## Profile Details
-* Email - <abhishek.r.satyanarayana.4@gmail.com>
-* CV - [CV](https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf)
-* Personal Webpage - [Personal Webpage](https://abhishekrs4.github.io/)
-* HuggingFace - [HuggingFace](https://huggingface.co/abhishekrs4)
-* LinkedIn - [LinkedIn](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
+* 📧 If you would like to contact me, you can always reach me - <abhishek.r.satyanarayana.4@gmail.com>
+* 📃 Webpage, it is always good to have one - [Webpage](https://abhishekrs4.github.io/)
+* 📜 Resume / CV - [CV](https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf)
+* 🤗 HuggingFace - [HuggingFace](https://huggingface.co/abhishekrs4)
+* ![image](https://github.com/AbhishekRS4/AbhishekRS4/assets/11407709/3bdc967d-2867-47f1-b6d0-a913ca2b1c8b) LinkedIn - [LinkedIn](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
 ## Projects with application deployments
 * [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation) Streamlit application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Oil_Spill_Segmentation)
@@ -20,3 +21,6 @@
 * Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version Control (CI / CD) - Git, GitHub, GitLab
 * Miscellaneous Tech: MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQLite, MySQL
+
+## Areas of Interests
+* Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Robot Perception, Computer Vision.
