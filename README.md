@@ -1,4 +1,9 @@
-# About me
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+  I am Abhishek
+</h1>
+
 🇮🇳🇳🇱
 * 👨🏽‍🎓 I am a graduate Artificial Intelligence (AI) Engineer from the University of Groningen. I am a
 motivated, talented, hardworking, and fast-learning professional. I believe that **change is the only constant**. 
@@ -21,6 +26,10 @@ to any one of the following --- technology, social, life, personality.
 * Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version Control (CI / CD) - Git, GitHub, GitLab
 * Miscellaneous Tech: MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQLite, MySQL
+
+<img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
+
+
 
 ## Areas of Interests
 * Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Robot Perception, Computer Vision.
