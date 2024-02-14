@@ -4,11 +4,12 @@
   I am Abhishek
 </h1>
 
-🇮🇳🇳🇱
+## :man_technologist: About Me
 * 👨🏽‍🎓 I am a graduate Artificial Intelligence (AI) Engineer from the University of Groningen. I am a
 motivated, talented, hardworking, and fast-learning professional. I believe that **change is the only constant**. 
 In this bold new era of the AI world, I'm always open to upgrading my real human intelligence with new skills be it related
 to any one of the following --- technology, social, life, personality.
+* I am from 🇮🇳, currently living in 🇳🇱
 
 ## Profiles and contact info
 * 📧 If you would like to contact me, you can always reach me - <abhishek.r.satyanarayana.4@gmail.com>
