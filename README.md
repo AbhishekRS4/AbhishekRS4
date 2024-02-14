@@ -36,6 +36,10 @@ to any one of the following --- technology, social, life, personality.
 <img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbhishekRS4&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRS4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Areas of Interests
