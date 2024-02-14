@@ -27,7 +27,7 @@ to any one of the following --- technology, social, life, personality.
 
 
 ## :hammer_and_wrench: Tech and Programming Language Skills
-* Programming Languages - Python, C++, C, Java, Matlab
+* Programming Languages - Python, C++, C, Matlab
 * Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version Control (CI / CD) - Git, GitHub, GitLab
 * Miscellaneous Tech: MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQLite, MySQL
