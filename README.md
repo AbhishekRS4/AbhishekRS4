@@ -28,10 +28,12 @@ to any one of the following --- technology, social, life, personality.
 
 
 ## :hammer_and_wrench: Tech and Programming Language Skills
-* Programming Languages - Python, C++, C, Matlab
-* Python packages - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
-* Version Control (CI / CD) - Git, GitHub, GitLab
-* Miscellaneous Tech: MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQLite, MySQL
+* Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Model Inference and Evaluation, Edge ML, Containerization and Model Deployment, Data Pipelines
+* Programming languages - Python, C++, C, Matlab
+* Packages and frameworks - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
+* Version control (CI / CD) - Git, GitHub, GitLab
+* Miscellaneous tech: Linux, MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
+* ML on embedded computing  hardware / edge devices: Raspberry Pi, Intel Movidius, Nvidia Jetson, Nvidia Xavier
 
 
 <img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
