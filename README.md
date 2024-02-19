@@ -32,8 +32,8 @@ to any one of the following --- technology, social, life, personality.
 * Programming languages - Python, C++, C, Matlab
 * Packages and frameworks - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version control (CI / CD) - Git, GitHub, GitLab
-* Miscellaneous tech: Linux, MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
-* ML on embedded computing  hardware / edge devices: Raspberry Pi, Intel Movidius, Nvidia Jetson, Nvidia Xavier
+* Miscellaneous tech - Linux, TensorRT, MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
+* ML on embedded computing hardware / edge devices - Raspberry Pi, Intel Movidius, Nvidia Jetson, Nvidia Xavier
 
 
 <img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
