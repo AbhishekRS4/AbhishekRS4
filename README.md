@@ -46,4 +46,8 @@ to any one of the following --- technology, social, life, personality.
 
 
 ## Areas of Interests
-* Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Robot Perception, Computer Vision.
+* Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science.
+
+
+## Hobbies
+* Playing badminton, playing chess, watching technology videos, listening to music, going for walks etc.
