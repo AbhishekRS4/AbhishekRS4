@@ -25,6 +25,8 @@ to any one of the following --- technology, social, life, personality.
 ## Projects with application deployments
 * [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation) Streamlit application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Oil_Spill_Segmentation)
 * [ML_water_potability](https://github.com/AbhishekRS4/ML_water_potability_fastapi_deployment) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/ML_water_potability)
+* [overhead_mnist](https://github.com/AbhishekRS4/overhead_mnist) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Overhead_MNIST)
+* [ML_multi_app_deployment](https://github.com/AbhishekRS4/ML_multi_app_deployment) is a project with multi-application deployment, a Streamlit frontend and a FastAPI backend
 
 
 ## :hammer_and_wrench: Tech and Programming Language Skills
