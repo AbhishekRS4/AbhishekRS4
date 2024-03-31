@@ -24,8 +24,9 @@ to any one of the following --- technology, social, life, personality.
 
 ## Projects with application deployments
 * [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation) Streamlit application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Oil_Spill_Segmentation)
+* [Handwriting Recognition](https://github.com/AbhishekRS4/Handwriting_Recognition) Flask application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Handwriting_Recognition) with a streamlit frontend application [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Handwriting_Recognition_Frontend?logs=container)
 * [ML_water_potability](https://github.com/AbhishekRS4/ML_water_potability_fastapi_deployment) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/ML_water_potability)
-* [overhead_mnist](https://github.com/AbhishekRS4/overhead_mnist) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Overhead_MNIST)
+* [overhead_mnist](https://github.com/AbhishekRS4/overhead_mnist) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Overhead_MNIST) with a streamlit frontend application [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Overhead_MNIST_frontend)
 * [ML_multi_app_deployment](https://github.com/AbhishekRS4/ML_multi_app_deployment) is a project with multi-application deployment, a Streamlit frontend and a FastAPI backend
 
 
