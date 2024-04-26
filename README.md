@@ -14,7 +14,7 @@ to any one of the following --- technology, social, life, personality.
 * 📧 If you would like to contact me, you can always reach me - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
 
 
-## Profiles and contact info
+## Portfolio and contact info
 
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek.r.satyanarayana.4@gmail.com)
 [![Personal Website Badge](https://img.shields.io/badge/abhishekrs4.github.io-019FD9?style=flat&logo=web&logoColor=white)](https://abhishekrs4.github.io/)
