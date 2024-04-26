@@ -11,10 +11,11 @@ motivated, talented, hardworking, and fast-learning professional. I believe that
 In this bold new era of the AI world, I'm always open to upgrading my real human intelligence with new skills be it related
 to any one of the following --- technology, social, life, personality.
 * I am from 🇮🇳, currently living in 🇳🇱
+* 📧 If you would like to contact me, you can always reach me - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
 
 
 ## Profiles and contact info
-* 📧 If you would like to contact me, you can always reach me - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
+
 * [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek.r.satyanarayana.4@gmail.com)
 * [![Personal Website Badge](https://img.shields.io/badge/abhishekrs4.github.io-019FD9?style=flat&logo=web&logoColor=white)](https://abhishekrs4.github.io/)
 * [![CV Badge](https://img.shields.io/badge/Resume-CV-critical)](https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf)
