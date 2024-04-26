@@ -16,11 +16,11 @@ to any one of the following --- technology, social, life, personality.
 
 ## Profiles and contact info
 
-* [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek.r.satyanarayana.4@gmail.com)
-* [![Personal Website Badge](https://img.shields.io/badge/abhishekrs4.github.io-019FD9?style=flat&logo=web&logoColor=white)](https://abhishekrs4.github.io/)
-* [![CV Badge](https://img.shields.io/badge/Resume-CV-critical)](https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf)
-* [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/abhishekrs4)
-* [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
+[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek.r.satyanarayana.4@gmail.com)
+[![Personal Website Badge](https://img.shields.io/badge/abhishekrs4.github.io-019FD9?style=flat&logo=web&logoColor=white)](https://abhishekrs4.github.io/)
+[![CV Badge](https://img.shields.io/badge/Resume-CV-critical)](https://abhishekrs4.github.io/docs/cv_abhishek_r_s.pdf)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/abhishekrs4)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
 
 ## Projects with application deployments
