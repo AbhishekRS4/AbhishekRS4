@@ -34,7 +34,7 @@ to any one of the following --- technology, social, life, personality.
 
 
 ## :hammer_and_wrench: Tech and Programming Language Skills
-* Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, NLP, LLM
+* Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, NLP, LLM, Data Science
 * Programming languages - Python, C++, C, Matlab
 * Packages and frameworks - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
 * Version control (CI / CD) - Git, GitHub, GitLab
