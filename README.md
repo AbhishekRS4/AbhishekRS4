@@ -35,9 +35,9 @@ In this bold new era of the AI world, I'm always ready to upgrade my real human 
 ## :hammer_and_wrench: Tech and Programming Language Skills
 * Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, NLP, LLM, Data Science
 * Programming languages - Python, C++, C, Matlab
-* Packages and frameworks - Numpy, Pandas, Scipy, Scikit, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask etc...
+* Packages and frameworks - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask ....
 * Version control (CI / CD) - Git, GitHub, GitLab
-* Miscellaneous tech - Linux, TensorRT, MLFlow, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
+* Miscellaneous tech - Linux, TensorRT, MLFlow, Weights and Biases, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
 * ML on embedded computing hardware / edge devices - Raspberry Pi, Intel Movidius, Nvidia Jetson, Nvidia Xavier
 
 
