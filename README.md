@@ -6,9 +6,8 @@
 
 
 ## :man_technologist: About Me
-* 👨🏽‍🎓 I am a graduate Artificial Intelligence (AI) Engineer from the University of Groningen. I am a
-motivated, talented, hardworking, fast-learning, and life-long learning professional. I believe that **change is the only constant**. 
-In this bold new era of the AI world, I'm always ready to upgrade my real human intelligence / skills in any one of the following --- technology, social, life, personality.
+* 👨🏽‍🎓 I am a growing Artificial Intelligence (AI) Engineer. I am a motivated, talented, fast-learning, life-long learning, hard, and smart working professional. I believe that **change is the only constant**. 
+In this bold era of the AI world, I'm constantly upgrading my real human intelligence and skills in technology, social, life, and my personality.
 * I am from 🇮🇳, currently living in 🇳🇱
 * 📧 If you would like to contact me, you can always reach me - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
 
@@ -50,9 +49,9 @@ In this bold new era of the AI world, I'm always ready to upgrade my real human 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRS4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Areas of Interests
+## Areas of Professional Interests
 * Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science.
 
 
-## Hobbies
+## Other Interests
 * Playing badminton, playing chess, watching technology videos, listening to music, going for walks etc.
