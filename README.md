@@ -38,6 +38,10 @@
 * Miscellaneous tech - Linux, TensorRT, MLFlow, Weights and Biases, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
 * ML on embedded computing hardware / edge devices - Raspberry Pi, Intel Movidius, Nvidia Jetson, Nvidia Xavier
 
+<code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
+
 
 <img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
 
