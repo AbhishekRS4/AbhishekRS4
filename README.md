@@ -43,8 +43,9 @@
 <code><img height="40" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" alt="pytorch" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></code>
-<code><img height="40" alt="numpy" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png"></code>
-<code><img height="40" alt="pandas" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code>
+<code><img height="40" alt="numpy" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4"></code>
+<code><img height="40" alt="pandas" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"></code>
+<code><img height="40" alt="matplotlib" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4"></code>
 <code><img height="40" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" alt="opencv" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
@@ -53,6 +54,10 @@
 <code><img height="40" alt="azure" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" alt="streamlit" src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4"></code>
+<code><img height="40" alt="mlflow" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4"></code>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
 
