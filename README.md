@@ -6,7 +6,7 @@
 
 
 ## :man_technologist: About Me
-* 👨🏽‍🎓 I am a growing Artificial Intelligence (AI) Engineer. I am a motivated, talented, fast-learning, life-long learning, hard, and smart working professional. I believe in kaizen i.e. continuous improvement through continuous learning. And, I believe that **change is the only constant**. In this bold era of the AI world, I'm constantly upgrading my real human intelligence and skills in technology, social, life, and my personality.
+* 👨🏽‍🎓 I am a growing Artificial Intelligence (AI) Engineer. I am a motivated, talented, fast-learning, life-long learner, hard, and smart working professional. I believe in kaizen i.e. continuous improvement through continuous learning. And, I believe that **change is the only constant**. In this new era of the AI world, I'm constantly upgrading my real human intelligence and skills in technology, social, life, and my personality.
 * I am from 🇮🇳, currently living in 🇳🇱
 * 📧 If you would like to contact me, you can always reach me - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
 
