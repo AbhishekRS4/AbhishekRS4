@@ -6,9 +6,9 @@
 
 
 ## :man_technologist: About Me
-* 👨🏽‍🎓 I am a growing Machine Learning (ML) Researcher / Engineer / Practitioner / Developer. I am a fast and life-long learning professional. 
 * I am from 🇮🇳, an AI Engineer working currently in the intersection of machine learning, computer vision, remote sensing image analysis, and geospatial domains for earth observation
-* 📧 If you would like to contact me, you can reach me here - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
+* 👨🏽‍🎓 I am a growing Machine Learning (ML) Researcher / Engineer / Practitioner / Developer. I am a fast and life-long learning professional
+* 📧 If you would like to contact me, you can reach me here - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com)
 
 
 ## Portfolio and contact info
