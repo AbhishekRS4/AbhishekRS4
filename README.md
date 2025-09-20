@@ -23,8 +23,8 @@
 ## :hammer_and_wrench: Tech and Programming Language Skills
 * Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, Data Science
 * Programming languages - Python, C++, C
-* Basic data science - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image,
-* Data Visualization - Matplotlib, Seaborn,
+* Basic data science - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image
+* Data Visualization - Matplotlib, Seaborn
 * Machine Learning - PyTorch, MLFlow, TensorRT
 * Computer Vision - OpenCV
 * App deployment - Streamlit, FastAPI, Flask
