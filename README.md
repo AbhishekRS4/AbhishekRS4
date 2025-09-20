@@ -29,7 +29,7 @@ GeoInt | Earth Observation | Remote Sensing Image Analysis | Machine Learning | 
 * Machine Learning - PyTorch, MLFlow, TensorRT
 * Computer Vision - OpenCV
 * Web frameworks - Streamlit, FastAPI, Flask
-* Remote sensing - MultiSpectral Imagery, SAR Imagery
+* Remote sensing image analysis - MultiSpectral Imagery, SAR Imagery
 * Earth observation - GeoPandas, Rasterio, XArray, RioXArray, Zarr
 * Version control (CI / CD) - Git, GitHub, GitLab
 * Miscellaneous tech - Linux, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS
