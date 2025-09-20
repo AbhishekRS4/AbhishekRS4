@@ -6,6 +6,7 @@
 
 
 ## :man_technologist: About Me
+GeoInt | Earth Observation | Remote Sensing Image Analysis | Machine Learning | Computer Vision
 * I am from 🇮🇳, an AI Engineer working currently in the intersection of machine learning, computer vision, remote sensing image analysis, and geospatial domains for earth observation
 * 👨🏽‍🎓 I am a growing Machine Learning (ML) Researcher / Engineer / Practitioner / Developer. I am a fast and life-long learning professional
 * 📧 If you would like to contact me, you can reach me here - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com)
