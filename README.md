@@ -6,9 +6,9 @@
 
 
 ## :man_technologist: About Me
-* 👨🏽‍🎓 I am a growing Machine Learning (ML) Researcher / Engineer. I am a fast-learning, life-long learning, and highly skilled professional. I believe in kaizen i.e. continuous improvement through continuous learning. And, I believe that **change is the only constant**. In this new era of the AI world, I'm constantly upgrading my real human intelligence and skills in technology, social, life, and my personality.
-* I am from 🇮🇳, an AI graduate working currently in the intersection of machine learning, remote sensing image analysis, and geospatial domains
-* 📧 If you would like to contact me, you can always reach me - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
+* 👨🏽‍🎓 I am a growing Machine Learning (ML) Researcher / Engineer / Practitioner / Developer. I am a fast and life-long learning professional. 
+* I am from 🇮🇳, an AI Engineer working currently in the intersection of machine learning, computer vision, remote sensing image analysis, and geospatial domains for earth observation
+* 📧 If you would like to contact me, you can reach me here - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com),
 
 
 ## Portfolio and contact info
@@ -20,28 +20,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-ramanathapura-satyanarayana-862608a0/)
 
 
-## Projects with application deployments
-* [HTSM_Oil_Spill_Segmentation](https://github.com/AbhishekRS4/HTSM_Oil_Spill_Segmentation) Streamlit application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Oil_Spill_Segmentation)
-* [image_colourization_CGAN](https://github.com/AbhishekRS4/image_colourization_CGAN) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Image_Colourization_CGAN) with a streamlit frontend application [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Image_Colourization_CGAN_Frontend)
-* [Handwriting Recognition](https://github.com/AbhishekRS4/Handwriting_Recognition) Flask application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Handwriting_Recognition) with a streamlit frontend application [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Handwriting_Recognition_Frontend)
-* [Cassava Leaf Disease Classification](https://github.com/AbhishekRS4/Deep_Learning/tree/main/src/cv_task) Flask application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Cassava_Leaf_Disease_Classification) with a streamlit frontend application [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Cassava_Leaf_Disease_Frontend)
-* [ML_water_potability](https://github.com/AbhishekRS4/ML_water_potability_fastapi_deployment) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/ML_water_potability)
-* [overhead_mnist](https://github.com/AbhishekRS4/overhead_mnist) FastAPI application has been deployed to [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Overhead_MNIST) with a streamlit frontend application [HuggingFace](https://huggingface.co/spaces/abhishekrs4/Overhead_MNIST_frontend)
-* [ML_multi_app_deployment](https://github.com/AbhishekRS4/ML_multi_app_deployment) is a project with multi-application deployment, a Streamlit frontend and a FastAPI backend
-
-
 ## :hammer_and_wrench: Tech and Programming Language Skills
-* Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, NLP, LLM, Data Science
-* Programming languages - Python, C++, C, Matlab
-* Packages and frameworks - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image, Matplotlib, Seaborn, PyTorch, TensorFlow, OpenCV, Streamlit, FastAPI, Flask ....
+* Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, Data Science
+* Programming languages - Python, C++, C
+* Basic data science - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image,
+* Data Visualization - Matplotlib, Seaborn,
+* Machine Learning - PyTorch, MLFlow, TensorRT
+* Computer Vision - OpenCV
+* App deployment - Streamlit, FastAPI, Flask
+* Remote sensing - MultiSpectral Imagery, SAR Imagery
+* Earth observation - GeoPandas, Rasterio, XArray, RioXArray, Zarr
 * Version control (CI / CD) - Git, GitHub, GitLab
-* Miscellaneous tech - Linux, TensorRT, MLFlow, Weights and Biases, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS, SQL, SQLite, MySQL
+* Miscellaneous tech - Linux, Docker, Kubernetes, HuggingFace, Microsoft Azure, AWS
 * ML on embedded computing hardware / edge devices - Raspberry Pi, Intel Movidius, Nvidia Jetson, Nvidia Xavier
 
 <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" alt="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="40" alt="pytorch" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4"></code>
 <code><img height="40" alt="numpy" src="https://avatars.githubusercontent.com/u/288276?s=200&v=4"></code>
 <code><img height="40" alt="pandas" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4"></code>
@@ -59,7 +54,6 @@
 <code><img height="40" alt="mlflow" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4"></code>
 
 
-
 <img src="https://komarev.com/ghpvc/?username=AbhishekRS4&style=flat-square&color=blue" alt=""/>
 
 
@@ -67,13 +61,3 @@
 
 
 [![Top Langs](https://github-readme-stats-abhishekrs4s-projects.vercel.app/api/top-langs/?username=AbhishekRS4&layout=compact&theme=vision-friendly-dark&langs_count=20)](https://github.com/AbhishekRS4/github-readme-stats)
-
-
-
-
-## Areas of Professional Interests
-* Interested in areas of Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science.
-
-
-## Other Interests
-* Listening to music, playing badminton and chess, watching technology videos and interesting podcasts, going for walks etc.
