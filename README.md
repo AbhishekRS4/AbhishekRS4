@@ -7,7 +7,7 @@
 
 ## :man_technologist: About Me
 GeoInt | Earth Observation | Remote Sensing Image Analysis | Machine Learning | Computer Vision
-* I am from 🇮🇳, an AI Engineer working currently in the intersection of machine learning, computer vision, remote sensing image analysis, and geospatial domains for earth observation
+* I am from 🇮🇳, an AI Engineer interested in working in the intersection of artificial intelligence, machine learning, computer vision, data science domains
 * 👨🏽‍🎓 I am a growing Machine Learning (ML) Researcher / Engineer / Practitioner / Developer. I am a fast and life-long learning professional
 * 📧 If you would like to contact me, you can reach me here - [abhishek.r.satyanarayana.4@gmail.com](mailto:abhishek.r.satyanarayana.4@gmail.com)
 
@@ -24,12 +24,13 @@ GeoInt | Earth Observation | Remote Sensing Image Analysis | Machine Learning | 
 ## :hammer_and_wrench: Tech and Programming Language Skills
 * Core skills - Computer Vision Algorithms, Machine Learning and Deep Learning Algorithms, MLOps, Model Optimization, Inference and Evaluation, Embedded / Edge ML, Containerization and Model Deployment, Data Pipelines, Data Science
 * Programming languages - Python, C++, C
-* Basic data science - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image
+* Data manipulation - Numpy, Pandas, Scipy, Scikit-learn, Scikit-image
 * Data Visualization - Matplotlib, Seaborn
-* Machine Learning - PyTorch, MLFlow, TensorRT
+* Machine Learning - PyTorch, Transformers, MLFlow, TensorRT, ONNX, Nvidia Dali
 * Computer Vision - OpenCV
 * Web frameworks - Streamlit, FastAPI, Flask
-* Earth observation - GeoPandas, Rasterio, XArray, RioXArray, Zarr, Dask
+* Earth observation - GeoPandas, Rasterio, XArray, RioXArray, Zarr
+* Distributed Computing - Dask, Ray
 * Version control (CI / CD) - Git, GitHub, GitLab
 * Miscellaneous tech - Linux, Docker, HuggingFace, AWS
 * Agentic AI tools - Kiro, Claude Code
